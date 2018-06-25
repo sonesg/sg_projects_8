@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#4A312A</color>
-    <color name="colorPrimaryDark">#2f1d1a</color>
-    <color name="colorAccent">#FF3D00</color>
-    <color name="textColorNewsAuthor_and_time">#3C3939</color>
-    <color name="background">#EFEBE9</color>
-    <color name="almost_black">#353535</color>
-</resources>
