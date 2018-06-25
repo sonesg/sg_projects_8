@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ChooseActivity2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"/>
+
+
+    <Button
+        android:id="@+id/choose_activity_2_grupe"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/ibmplexserif_medium"
+        android:background="@drawable/background_for_button"
+        android:text="Grupe"
+        android:textSize="20sp"/>
+
+    <Button
+        android:id="@+id/choose_activity_2_predavaci"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/ibmplexserif_medium"
+        android:background="@drawable/background_for_button"
+        android:text="Predavači"
+        android:textSize="20sp"/>
+
+
+    <Button
+        android:id="@+id/choose_activity_2_ucionice"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/ibmplexserif_medium"
+        android:background="@drawable/background_for_button"
+        android:text="Učionice"
+        android:textSize="20sp"/>
+
+
+    <Button
+        android:id="@+id/choose_activity_2_predmeti"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/ibmplexserif_medium"
+        android:background="@drawable/background_for_button"
+        android:text="Predmeti"
+        android:textSize="20sp"/>
+
+    <Button
+        android:id="@+id/choose_activity_2_dani"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/ibmplexserif_medium"
+        android:background="@drawable/background_for_button"
+        android:text="Dani"
+        android:textSize="20sp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"/>
+
+</LinearLayout>
