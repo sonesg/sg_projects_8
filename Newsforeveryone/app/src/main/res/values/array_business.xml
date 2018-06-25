@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels_business">
+        <item>@string/settings_order_by_bloom_label</item>
+        <item>@string/settings_order_by_insider_label</item>
+        <item>@string/settings_order_by_cnbc_label</item>
+        <item>@string/settings_order_by_fin_label</item>
+        <item>@string/settings_order_by_fortune_label</item>
+        <item>@string/settings_order_by_thee_label</item>
+        <item>@string/settings_order_by_thew_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values_business">
+        <item>@string/settings_order_by_bloom_value</item>
+        <item>@string/settings_order_by_insider_value</item>
+        <item>@string/settings_order_by_cnbc_value</item>
+        <item>@string/settings_order_by_fin_value</item>
+        <item>@string/settings_order_by_fortune_value</item>
+        <item>@string/settings_order_by_thee_value</item>
+        <item>@string/settings_order_by_thew_value</item>
+    </string-array>
+</resources>

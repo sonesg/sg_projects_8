@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels_sport">
+        <item>@string/settings_order_by_sport_label</item>
+        <item>@string/settings_order_by_espn_label</item>
+        <item>@string/settings_order_by_espn1_label</item>
+        <item>@string/settings_order_by_four_label</item>
+        <item>@string/settings_order_by_fox_label</item>
+        <item>@string/settings_order_by_itali_label</item>
+        <item>@string/settings_order_by_nfl_label</item>
+        <item>@string/settings_order_by_talk_label</item>
+        <item>@string/settings_order_by_thes_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values_sport">
+        <item>@string/settings_order_by_sport_value</item>
+        <item>@string/settings_order_by_espn_value</item>
+        <item>@string/settings_order_by_espn1_value</item>
+        <item>@string/settings_order_by_four_value</item>
+        <item>@string/settings_order_by_fox_value</item>
+        <item>@string/settings_order_by_itali_value</item>
+        <item>@string/settings_order_by_nfl_value</item>
+        <item>@string/settings_order_by_talk_value</item>
+        <item>@string/settings_order_by_thes_value</item>
+    </string-array>
+</resources>
