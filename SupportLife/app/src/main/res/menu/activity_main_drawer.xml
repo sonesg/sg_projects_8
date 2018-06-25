@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!--<group android:checkableBehavior="single">-->
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/pomozimo_deci"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="@string/pomozimo_deci" />
+        <item
+            android:id="@+id/aktuelnosti"
+            android:icon="@drawable/ic_tag_faces_black_24dp"
+            android:title="@string/aktuelnosti" />
+        <item
+            android:id="@+id/pomogli_smo"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="@string/pomogli_smo" />
+        <item
+            android:id="@+id/donatori"
+            android:icon="@drawable/ic_tag_faces_black_24dp"
+            android:title="@string/donatori" />
+        <item
+            android:id="@+id/ambasadori"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="@string/ambasadori" />
+        <item
+            android:id="@+id/o_nama"
+            android:icon="@drawable/ic_tag_faces_black_24dp"
+            android:title="@string/o_nama" />
+        <item
+            android:id="@+id/kontakt"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="@string/kontakt" />
+        <item
+            android:id="@+id/spisak_uplata"
+            android:icon="@drawable/ic_tag_faces_black_24dp"
+            android:title="@string/spisak_uplata" />
+        <item
+            android:id="@+id/postani_volonter"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="@string/postani_volonter" />
+        <item
+            android:id="@+id/potrebna_pomoc"
+            android:icon="@drawable/ic_tag_faces_black_24dp"
+            android:title="@string/potrebna_vam_je_pomo" />
+    </group>
+
+</menu>
