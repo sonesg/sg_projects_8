@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "316002997022",
+    "firebase_url": "https://podrzizivot-a8990.firebaseio.com",
+    "project_id": "podrzizivot-a8990",
+    "storage_bucket": "podrzizivot-a8990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316002997022:android:7f91296cdf6d440d",
+        "android_client_info": {
+          "package_name": "com.podrzizivot.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316002997022-cnpqc9sn7hfqpv1v84m1s7pf2m7ikrsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.podrzizivot.project",
+            "certificate_hash": "314c9e94b1498606058c19b281bae7e62fce932d"
+          }
+        },
+        {
+          "client_id": "316002997022-b0ah966opb546dhk7gann1au0d711f1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5itr6aQ2YmxUcmxtcVsNiKwDBeQJFJJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316002997022-b0ah966opb546dhk7gann1au0d711f1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
